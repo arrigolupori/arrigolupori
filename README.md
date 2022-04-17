@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey there 👋🏼
+========================
 
-<!--
-**arrigolupori/arrigolupori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arrigo, the Frontendster 🤓
+-------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🇮🇹  I'm based in Firenze, Italy🇹
+*   🧑🏼‍💻  My main gig is developing web apps at [frontendster.com](http://www.frontendster.com/)
+*   ✨  I have 2 side projects: 1) [Swiftbrief](http://www.swiftbrief.com); 2) [Wisercourse](http://www.wisercourse.com)
+                
+### Follow me on Twitter <span align="left"><a href="https://www.twitter.com/ArrigoLupori" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></span>
+-------------
+I am very active on there and share lots of helpful content!

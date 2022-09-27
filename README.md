@@ -8,6 +8,4 @@ I'm Arrigo 🤓
 
 Open source is a HUGE passion for me.
 
-I often dive deep into repos and sponsor fellow opensourcerers.
-
-My time is limited at the moment, but I have the ambition to create relevant open-source projects for the community. Check back here in a few months' time!
+I often dive deep into repos and sponsor fellow opensourcerers. My time is limited at the moment, but I have the ambition to create relevant open-source projects for the community. Check back here in a few months' time!

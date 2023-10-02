@@ -1,11 +1,12 @@
 Hey there 👋🏼
 ========================
 
-I'm Arrigo 🤓
+I'm Arrigo, Co-Founder & Product Lead at [Sagewill](https://sagewill.com).
 
-*   🇮🇹  I'm based in Firenze, Italy
-*   🧑🏼‍💼  Currently I work as the Head of Marketing for [Datavid](https://datavid.com)
+*   🇮🇹🇺🇸  I'm based in Firenze, Italy, but my company is registered in the US.
+*   💾⛅️  I love working with PostgreSQL and serverless architecture.
+*   🪜🔐  My goal is to build highly-available and secure apps.
 
-Open source is a HUGE passion for me.
+I'm passionate about open source but haven't had time to dedicate to developing libraries.
 
-I often dive deep into repos and sponsor fellow opensourcerers. My time is limited at the moment, but I have the ambition to create relevant open-source projects for the community. Check back here in a few months' time!
+Although Sagewill is a commercial product, I'm hoping it will lend itself to some open-source opportunities 💪
